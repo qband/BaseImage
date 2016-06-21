@@ -1,9 +1,0 @@
-* BaseImage
-
-| 4N         | Description                    | Reference             |
-|------------+--------------------------------+-----------------------|
-| RocketChat | add python and build-essential | [[https://github.com/RocketChat/Rocket.Chat/raw/develop/.docker/latest/Dockerfile][Official Dockerfile]]   |
-|            |                                |                       |
-|            |                                |                       |
-|            |                                |                       |
-
