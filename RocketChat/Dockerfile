@@ -1,0 +1,8 @@
+FROM rocketchat/base
+
+ENV RC_VERSION latest
+
+MAINTAINER qband
+
+RUN apt-get update \
+    && apt-get install -y python build-essential
