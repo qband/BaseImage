@@ -1,7 +1,5 @@
 FROM rocketchat/base
 
-ENV RC_VERSION latest
-
 MAINTAINER qband
 
 RUN apt-get update && \
